@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+    <Tracking>
+        <ImageTarget name="GlassCube.Right" size="0.060000 0.060000"/>
+        <ImageTarget name="GlassCube.Front" size="0.060000 0.060000"/>
+        <ImageTarget name="GlassCube.Top" size="0.060000 0.060000"/>
+        <ImageTarget name="GlassCube.Left" size="0.060000 0.060000"/>
+        <ImageTarget name="GlassCube.Back" size="0.060000 0.060000"/>
+        <ImageTarget name="GlassCube.Bottom" size="0.060000 0.060000"/>
+        <ImageTarget name="FurCube.Right" size="0.060000 0.060000"/>
+        <ImageTarget name="MetalCube.Front" size="0.060000 0.060000"/>
+        <ImageTarget name="FurCube.Top" size="0.060000 0.060000"/>
+        <ImageTarget name="FurCube.Left" size="0.060000 0.060000"/>
+        <ImageTarget name="FurCube.Back" size="0.060000 0.060000"/>
+        <ImageTarget name="FurCube.Bottom" size="0.060000 0.060000"/>
+        <ImageTarget name="SandCube.Right" size="0.060000 0.060000"/>
+        <ImageTarget name="SandCube.Front" size="0.060000 0.060000"/>
+        <ImageTarget name="SandCube.Top" size="0.060000 0.060000"/>
+        <ImageTarget name="SandCube.Left" size="0.060000 0.060000"/>
+        <ImageTarget name="SandCube.Back" size="0.060000 0.060000"/>
+        <ImageTarget name="SandCube.Bottom" size="0.060000 0.060000"/>
+        <ImageTarget name="ARToyCube.Right" size="0.060000 0.060000"/>
+        <ImageTarget name="ARToyCube.Front" size="0.060000 0.060000"/>
+        <ImageTarget name="ARToyCube.Top" size="0.060000 0.060000"/>
+        <ImageTarget name="ARToyCube.Left" size="0.060000 0.060000"/>
+        <ImageTarget name="ARToyCube.Back" size="0.060000 0.060000"/>
+        <ImageTarget name="ARToyCube.Bottom" size="0.060000 0.060000"/>
+        <ImageTarget name="GrassCube.Right" size="0.060000 0.060000"/>
+        <ImageTarget name="GrassCube.Front" size="0.060000 0.060000"/>
+        <ImageTarget name="GrassCube.Top" size="0.060000 0.060000"/>
+        <ImageTarget name="GrassCube.Left" size="0.060000 0.060000"/>
+        <ImageTarget name="GrassCube.Back" size="0.060000 0.060000"/>
+        <ImageTarget name="GrassCube.Bottom" size="0.060000 0.060000"/>
+        <MultiTarget name="GlassCube">
+            <Part name="GlassCube.Left" translation="-0.029999999329447746 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="GlassCube.Right" translation="0.029999999329447746 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="GlassCube.Front" translation="0 0 0.029999999329447746" rotation="AD: 1 0 0 0"/>
+            <Part name="GlassCube.Back" translation="0 0 -0.029999999329447746" rotation="AD: 0 1 0 180"/>
+            <Part name="GlassCube.Top" translation="0 0.029999999329447746 0" rotation="AD: 1 0 0 -90"/>
+            <Part name="GlassCube.Bottom" translation="0 -0.029999999329447746 0" rotation="AD: 1 0 0 90"/>
+        </MultiTarget>
+        <MultiTarget name="FurCube">
+            <Part name="FurCube.Left" translation="-0.029999999329447746 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="FurCube.Right" translation="0.029999999329447746 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="MetalCube.Front" translation="0 0 0.029999999329447746" rotation="AD: 1 0 0 0"/>
+            <Part name="FurCube.Back" translation="0 0 -0.029999999329447746" rotation="AD: 0 1 0 180"/>
+            <Part name="FurCube.Top" translation="0 0.029999999329447746 0" rotation="AD: 1 0 0 -90"/>
+            <Part name="FurCube.Bottom" translation="0 -0.029999999329447746 0" rotation="AD: 1 0 0 90"/>
+        </MultiTarget>
+        <MultiTarget name="SandCube">
+            <Part name="SandCube.Left" translation="-0.029999999329447746 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="SandCube.Right" translation="0.029999999329447746 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="SandCube.Front" translation="0 0 0.029999999329447746" rotation="AD: 1 0 0 0"/>
+            <Part name="SandCube.Back" translation="0 0 -0.029999999329447746" rotation="AD: 0 1 0 180"/>
+            <Part name="SandCube.Top" translation="0 0.029999999329447746 0" rotation="AD: 1 0 0 -90"/>
+            <Part name="SandCube.Bottom" translation="0 -0.029999999329447746 0" rotation="AD: 1 0 0 90"/>
+        </MultiTarget>
+        <MultiTarget name="WaterCube">
+            <Part name="ARToyCube.Left" translation="-0.029999999329447746 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="ARToyCube.Right" translation="0.029999999329447746 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="ARToyCube.Front" translation="0 0 0.029999999329447746" rotation="AD: 1 0 0 0"/>
+            <Part name="ARToyCube.Back" translation="0 0 -0.029999999329447746" rotation="AD: 0 1 0 180"/>
+            <Part name="ARToyCube.Top" translation="0 0.029999999329447746 0" rotation="AD: 1 0 0 -90"/>
+            <Part name="ARToyCube.Bottom" translation="0 -0.029999999329447746 0" rotation="AD: 1 0 0 90"/>
+        </MultiTarget>
+        <MultiTarget name="GrassCube">
+            <Part name="GrassCube.Left" translation="-0.029999999329447746 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="GrassCube.Right" translation="0.029999999329447746 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="GrassCube.Front" translation="0 0 0.029999999329447746" rotation="AD: 1 0 0 0"/>
+            <Part name="GrassCube.Back" translation="0 0 -0.029999999329447746" rotation="AD: 0 1 0 180"/>
+            <Part name="GrassCube.Top" translation="0 0.029999999329447746 0" rotation="AD: 1 0 0 -90"/>
+            <Part name="GrassCube.Bottom" translation="0 -0.029999999329447746 0" rotation="AD: 1 0 0 90"/>
+        </MultiTarget>
+    </Tracking>
+</QCARConfig>
