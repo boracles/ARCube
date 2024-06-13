@@ -1,0 +1,32 @@
+14 different realistic materials for use in any game or environmental project.
+
+All Materials are in 4096x4096 resolution and includes breakdown map's is:
+
+1 Base Color ( Albedo Map ) 4096x4096
+
+2 Normal Map 4096x4096
+
+3 AO ( Occlusion Map) 4096x4096
+
+4 Roghness Map ( Gloss Map ) 4096x4096
+
+5 Height Map ( Displacement Map ) 4096x4096
+
+6 Emmission Map For Lava 4096x4096
+
+
+Features:
+
+Number of Textures: 49
+
+Supported Development Platforms: Windows, Mac, PS4, Xbox One
+
+Supported Target Creation Platforms: Windows, Mac, PS4, Xbox One
+
+Targeted Platform: PC, Console, Mac
+
+Platforms Tested: Windows
+
+Render Screenshots: some screenshots rendered in Marmoset
+
+Note: All textures are imported at 512 x 512 for fast and correct import process in your Unity. You can adjust resolution up to 4096 in inspector for higher quality.
