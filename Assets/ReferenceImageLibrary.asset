@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5027739967912133048
+  m_GuidHigh: 451269848493064608
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4819232148353707433
+      m_GuidHigh: 11632368410314491539
+    m_SerializedTextureGuid:
+      m_GuidLow: 3086157433602641243
+      m_GuidHigh: 15859400428694165770
+    m_Size: {x: 0.06, y: 0.06}
+    m_SpecifySize: 1
+    m_Name: Water_1
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4739157114425884143
+      m_GuidHigh: 17252311638933049529
+    m_SerializedTextureGuid:
+      m_GuidLow: 9720020654378507325
+      m_GuidHigh: 13131762946730538152
+    m_Size: {x: 0.06, y: 0.06}
+    m_SpecifySize: 1
+    m_Name: Water_2
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5699223300019814679
+      m_GuidHigh: 2643228442140706703
+    m_SerializedTextureGuid:
+      m_GuidLow: 13480405581612030041
+      m_GuidHigh: 11734085184297875594
+    m_Size: {x: 0.06, y: 0.06057143}
+    m_SpecifySize: 1
+    m_Name: Water_3
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5631790045975721783
+      m_GuidHigh: 11203657592042389418
+    m_SerializedTextureGuid:
+      m_GuidLow: 12089028359549341429
+      m_GuidHigh: 1667891336499229627
+    m_Size: {x: 0.06, y: 0.06042553}
+    m_SpecifySize: 1
+    m_Name: Water_4
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5469711463486281394
+      m_GuidHigh: 4482199132782180753
+    m_SerializedTextureGuid:
+      m_GuidLow: 10872839930179073667
+      m_GuidHigh: 9060807457077088217
+    m_Size: {x: 0.06, y: 0.06}
+    m_SpecifySize: 1
+    m_Name: Water_5
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4829802869036169244
+      m_GuidHigh: 8169281828553858980
+    m_SerializedTextureGuid:
+      m_GuidLow: 7981780608389603519
+      m_GuidHigh: 3050475404457191451
+    m_Size: {x: 0.06, y: 0.06}
+    m_SpecifySize: 1
+    m_Name: Water_6
+    m_Texture: {fileID: 0}
